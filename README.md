@@ -31,8 +31,12 @@
   <img src="https://img.shields.io/badge/-SKILLS-2ea043?style=for-the-badge&logo=shikimori" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+ 
  
   
 </p>
