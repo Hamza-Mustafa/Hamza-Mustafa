@@ -1,44 +1,38 @@
-### 
-<p align="center"> <br>
-<a target="_blank"href="https://github.com/Hamza-Mustafa/"><img src="https://img.shields.io/badge/Hamza %20Mustafa-Welcomes%20You-007afb?style=for-the-badge&logo=github&labelColor=2ea043&logoColor=FFFFFF&color=f0fff0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">
-   <a target="_blank"href="https://github.com/Hamza-Mustafa/"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/hamza-mustafa786/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:mhamzamustafa7@gmail.com?subject=Hello%20MuhammadHamza,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank"href="https://www.youtube.com/c/AppShap/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a target="_blank"href="https://www.youtube.com/c/BoysOnTheStreet"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br>
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hamza-Mustafa&theme=gotham&show_icons=true&bg_color=000000" alt="Muhammad Hamza Mustafa github stats"/>
-  
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Mustafa&theme=gotham&show_icons=true&bg_color=000000" alt="Muhammad Hamza github most used languages stats"/>
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br />
+<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
+
+# Hi, I'm Hamza Mustafa 👋
+
+- pronouns: **he**/**him**
+
+- tech hipster
+
+- gifted artist.
+
+- **opensourcer**
+
+- bachelor of computer science
+
+- support me on **[liberapay](https://liberapay.com/ful1e5)** or [Patreon](https://www.patreon.com/KaizKhatri)
+
+<br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-SKILLS-2ea043?style=for-the-badge&logo=shikimori" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <br><br>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2014-999999?style=for-the-badge&logo=apple&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  
- 
- 
-  
+  <a href="https://kaiz.vercel.app/now-playing?open">
+    <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
+  </a>
 </p>
+
+<!-- Discord: https://discord.gg/2RjkTNK -->
+<!-- Twitch: https://www.twitch.tv/ful1e5 -->
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://www.youtube.com/channel/UCzp1n7fo_b-oXUHtQzC5QQA/">
+    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
+  </a>
+  <a href="https://twitter.com/ful1e5">
+    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+  </a>
+  <a href="https://dev.to/ful1e5">
+    <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
+  </a>
+<div>
