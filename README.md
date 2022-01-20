@@ -3,15 +3,11 @@
 
 # Hi, I'm Hamza Mustafa 👋
 
-- **Self Taught iOS Developer****
+- **Self Taught iOS Developer**
 
-- Content Creator 
+- Content Creator / Youtuber
 
-- **opensourcer**
-
-- bachelor of computer science
-
-- support me on **[liberapay](https://liberapay.com/ful1e5)** or [Patreon](https://www.patreon.com/KaizKhatri)
+- Bachelor of computer science
 
 <br />
 
