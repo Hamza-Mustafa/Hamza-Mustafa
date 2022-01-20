@@ -11,7 +11,7 @@
 
 <br />
 
-<div align="center" style="display: flex; justify-content: space-between;">
+<div  style="display: flex; justify-content: space-between;">
   <a href="https://www.youtube.com/channel/UCzp1n7fo_b-oXUHtQzC5QQA/">
     <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
   </a>
