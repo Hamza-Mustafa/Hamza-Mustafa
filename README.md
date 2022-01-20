@@ -10,7 +10,7 @@
 - Bachelor of computer science
 
 <br />
-
+<p align="center">
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://www.youtube.com/c/AppShap">
     <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
@@ -22,6 +22,7 @@
     <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
   </a>
 <div>
+  </p>
 
  <p align="center">
   <img src="https://img.shields.io/badge/-SKILLS-2ea043?style=for-the-badge&logo=shikimori" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,5 +31,4 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2014-999999?style=for-the-badge&logo=apple&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
