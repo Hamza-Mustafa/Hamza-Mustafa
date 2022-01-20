@@ -11,16 +11,8 @@
 
 <br />
 
-<p align="center">
-  <a href="https://kaiz.vercel.app/now-playing?open">
-    <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
-  </a>
-</p>
-
-<!-- Discord: https://discord.gg/2RjkTNK -->
-<!-- Twitch: https://www.twitch.tv/ful1e5 -->
 <div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://www.youtube.com/channel/UCzp1n7fo_b-oXUHtQzC5QQA/">
+  <a href="https://www.youtube.com/c/AppShap">
     <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
   </a>
   <a href="https://twitter.com/ful1e5">
