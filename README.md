@@ -10,18 +10,6 @@
 - Bachelor of computer science
 
 <br />
-  <p align="center">
-  <br><br>
-  <a href="https://www.youtube.com/c/AppShap">
-    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
-  </a>
-  <a href="https://twitter.com/ful1e5">
-    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
-  </a>
-  <a href="https://dev.to/ful1e5">
-    <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
-  </a>
- </p>
 
  <p align="center">
   <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
