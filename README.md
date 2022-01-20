@@ -3,11 +3,9 @@
 
 # Hi, I'm Hamza Mustafa 👋
 
-- pronouns: **he**/**him**
+- **Self Taught iOS Developer****
 
-- tech hipster
-
-- gifted artist.
+- Content Creator 
 
 - **opensourcer**
 
