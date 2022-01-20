@@ -13,7 +13,7 @@
 
 
  <p align="center">
-  <div align="center" style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: space-between;">
   <a href="https://www.youtube.com/c/AppShap">
     <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
   </a>
