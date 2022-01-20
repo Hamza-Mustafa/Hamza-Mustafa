@@ -22,6 +22,6 @@
     <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
   </a>
   <a href="https://instagram.com/appshap" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="30" width="30" alt="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="35" width="35" alt="Instagram">
   </a>
 <div>
