@@ -10,11 +10,20 @@
 - Bachelor of computer science
 
 <br />
-
+  <p align="center">
+  <br><br>
+  <a href="https://www.youtube.com/c/AppShap">
+    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
+  </a>
+  <a href="https://twitter.com/ful1e5">
+    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+  </a>
+  <a href="https://dev.to/ful1e5">
+    <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
+  </a>
+ </p>
 
  <p align="center">
- 
-
   <br><br>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
