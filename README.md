@@ -21,4 +21,7 @@
   <a href="https://dev.to/ful1e5" target="_blank">
     <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
   </a>
+  <a href="https://instagram.com/appshap" target="_blank">
+    <img src="https://i.imgur.com/M6yBwxS.png" height="40" width="40" alt="Instagram">
+  </a>
 <div>
